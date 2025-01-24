@@ -1,0 +1,15 @@
+# Build directory
+build/
+build*/
+
+# IDE specific files
+.vs/
+#.vscode/
+CMakeSettings.json
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+
+# Large data files
+assets/big/
